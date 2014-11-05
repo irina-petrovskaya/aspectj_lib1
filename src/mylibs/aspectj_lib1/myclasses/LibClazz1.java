@@ -2,6 +2,7 @@ package mylibs.aspectj_lib1.myclasses;
 
 /**
  * Created by irina on 11/5/2014.
+ * Class with members defined in aspect
  */
 public class LibClazz1 {
     String ownStr1;
